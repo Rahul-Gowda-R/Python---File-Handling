@@ -1,0 +1,11 @@
+"id","name","salary"."gender","dno"
+101,amar,50000,m,11
+102,kiran,45000,m,12
+103,ankita,65000,f,11
+104,ravi,45000,m,11
+105,suresh,55000,m,12
+106,rama,75000,m,13
+107,krishna,60000,m,15
+108,karishma,25000,f,11
+109,rani,65000,f,14
+110,reena,30000,f,14

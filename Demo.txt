@@ -1,7 +1,4 @@
 Hello World 
-
 This is my first step of learning file handling
-
 and also i am very happy that this is my last topic on basics of learning python
-
 I am very much excited to join for advance classes
