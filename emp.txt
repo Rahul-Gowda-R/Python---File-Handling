@@ -1,4 +1,4 @@
-"id","name","salary"."gender","dno"
+"id","name","salary","gender","dno"
 101,amar,50000,m,11
 102,kiran,45000,m,12
 103,ankita,65000,f,11
