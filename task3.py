@@ -36,6 +36,10 @@ file=open('emp.txt')
 
 file.readline()
 
+dept_count={}
+
+dept_salary={}
+
 
 for line in file:
     data=line.strip().split(",")
@@ -48,6 +52,26 @@ for line in file:
 
     print(data)
 
+    dept=data[4]
+
+    salary= int(data[2])
+
+    if dept  in dept_salary:
+        dept_salary[dept]=dept_salary[dept]  + salary
+    else:
+        dept_salary[dept]=salary
+
+
+    if dept in dept_count:
+        dept_count[dept]=dept_count[dept]+1
+    else:
+        dept_count[dept]=1
     
 
 file.close()
+
+print("\nEmployees in each department")
+print(dept_count)
+
+print("\nTotal salary per department")
+print(dept_salary)
