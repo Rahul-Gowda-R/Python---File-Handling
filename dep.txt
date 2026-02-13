@@ -1,0 +1,6 @@
+dept no,dept name
+11,Admin
+12,HR
+13,Networkin
+14,Sales
+15,Technical support

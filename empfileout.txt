@@ -1,0 +1,10 @@
+101,amar,50000,m,Admin
+102,kiran,45000,m,HR
+103,ankita,65000,f,Admin
+104,ravi,45000,m,Admin
+105,suresh,55000,m,HR
+106,rama,75000,m,Networkin
+107,krishna,60000,m,Technical support
+108,karishma,25000,f,Admin
+109,rani,65000,f,Sales
+110,reena,30000,f,Sales
